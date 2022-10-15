@@ -1,6 +1,6 @@
 # linkedTree
 
-This project invole implementing a simple java program for a linked Tree. A linked Tree is a data structure that consists of a set of data records(nodes) linked together and organized by references(links or pointers).
+This project involes implementing a simple java program for a linked Tree. A linked Tree is a data structure that consists of a set of data records(nodes) linked together and organized by references(links or pointers).
 
 This program consists of :
 
